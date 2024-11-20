@@ -12,6 +12,7 @@ Asegúrate de tener instalado Python (>=3.8) y las bibliotecas necesarias
 
 ## Ejecutar los Notebooks
 Abre cada archivo .ipynb en Jupyter Notebook o Jupyter Lab.
+
 Sigue el orden: EDA.ipynb → Preprocessing.ipynb → Benchmarking.ipynb.
 
 ## Reproducir Resultados
@@ -19,6 +20,7 @@ Genera los informes y visualizaciones ejecutando las celdas de cada notebook.
 
 # Autores
 **Hypatia Beatriz García Maciel** - *Data Scientist en formación*
+
 Estudiante de Ingeniería Informática, apasionada por el análisis de datos y la predicción con modelos de machine learning.
 
 # Licencia
