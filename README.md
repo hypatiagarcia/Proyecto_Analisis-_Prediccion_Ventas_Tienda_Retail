@@ -5,25 +5,39 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio de datos (E
 ## Estructura del Repositorio
 
 /Proyecto1
+
 |-- /data
+
 |   |-- dataset.csv               # Dataset utilizado para el análisis
+
 |-- /notebooks
+
 |   |-- EDA.ipynb                 # Análisis Exploratorio de Datos
+
 |   |-- Preprocessing.ipynb       # Preprocesamiento de Datos
+
 |   |-- Benchmarking.ipynb        # Entrenamiento y evaluación de modelos
+
 |-- /reports
+
 |   |-- classification_report.txt # Informe de clasificación de modelos
+
 |   |-- confusion_matrix.png      # Visualización de la matriz de confusión
+
 |   |-- roc_curve.png             # Curva ROC generada
+
 |-- /presentation
+
 |   |-- onepage_presentation.pptx # Presentación de resultados (One-Page)
+
 |-- README.md                     # Documentación del proyecto
+
 
 ## Instrucciones para Ejecutar
 Clonar el Repositorio:
 
-git clone https://github.com/tu-usuario/proyecto1-retail.git
-cd proyecto1-retail
+git clone https://github.com/hypatiagarcia/Proyecto_Analisis-_Prediccion_Ventas_Tienda_Retail.git
+cd Proyecto_Analisis-_Prediccion_Ventas_Tienda_Retail
 
 Asegúrate de tener instalado Python (>=3.8) y las bibliotecas necesarias
 
