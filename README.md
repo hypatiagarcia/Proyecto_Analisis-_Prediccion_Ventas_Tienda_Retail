@@ -7,29 +7,17 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio de datos (E
 /Proyecto1
 
 |-- /data
-
 |   |-- dataset.csv               # Dataset utilizado para el análisis
-
 |-- /notebooks
-
 |   |-- EDA.ipynb                 # Análisis Exploratorio de Datos
-
 |   |-- Preprocessing.ipynb       # Preprocesamiento de Datos
-
 |   |-- Benchmarking.ipynb        # Entrenamiento y evaluación de modelos
-
 |-- /reports
-
 |   |-- classification_report.txt # Informe de clasificación de modelos
-
 |   |-- confusion_matrix.png      # Visualización de la matriz de confusión
-
 |   |-- roc_curve.png             # Curva ROC generada
-
 |-- /presentation
-
 |   |-- onepage_presentation.pptx # Presentación de resultados (One-Page)
-
 |-- README.md                     # Documentación del proyecto
 
 
